@@ -29,7 +29,7 @@ const LoginScreen = ({ navigation }) => {
         <KeyboardAvoidingView behavior="padding" style={styles.container}>
             <StatusBar style="light" />
             <Image source={{
-                uri: "https://play-lh.googleusercontent.com/s5BbMLevRobVYAS2Ra8skG1Lw7i-F5D3vpsN2D_mtQmo-neUqBBWXDAag4df8up5Vg=s180"
+                uri: "https://i.postimg.cc/fWf3hnXy/logo.jpg"
             }}
             style={{ width: 100, height: 100 }}
             />
@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
         padding: 10,
-        backgroundColor: 'white',
+        // backgroundColor: 'white',
     },
     inputContainer: {
         width: 300,

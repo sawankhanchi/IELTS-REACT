@@ -34,7 +34,7 @@ const RegisterScreen = ({ navigation }) => {
             <StatusBar style="light" />
 
             <Text h3 style={{ marginBottom: 50 }}>
-                Create a IELTS account
+                Create an IELTS account
             </Text>
 
             <View style={styles.inputContainer}>
